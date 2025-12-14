@@ -1,4 +1,7 @@
 1ere ligne du fichier
 2eme ligne dufichier
-remplace lignes par user1
+ligne1 User2 en conflit
+ligne2 User2 en conflit
+ligne1 User1 en conflit
+Remplace ligne user2 
 Une autre ligne du fichier
